@@ -4,4 +4,4 @@
 👉[정오표를 확인해 주세요 (클릭!) ](./모두의_딥러닝_정오표_20210730.pdf)
 
 <br/><br/>
-[![ex_screenshot](./img/상세페이지_모두의딥러닝개정2판_750px.jpg)](http://www.yes24.com/Product/Goods/86611190)
+[![ex_screenshot](./book_img/book.jpg)](http://www.yes24.com/Product/Goods/86611190)
