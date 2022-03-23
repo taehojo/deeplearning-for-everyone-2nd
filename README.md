@@ -6,7 +6,7 @@
 
 [![Title](./book/book.jpg)](http://www.yes24.com/Product/Goods/86611190)
 
-* 👉[정오표](https://taehojo.github.io/book/errata-20220111.pdf)
+* 👉[정오표](https://taehojo.github.io/book/errata-20220323.pdf)
 * 자세한 책 소개 및 구매: [예스24](http://www.yes24.com/Product/Goods/86611190), [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791165210397), [인터파크](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=327029899)
 
 
